@@ -1,6 +1,6 @@
 ## Hi there i'm Matt Pineda
 
-Im Currently a Junior at the University of Iowa majoring in Buisiness Analytics and Finance.
+Im Currently a Senior at the University of Iowa majoring in Buisiness Analytics and Finance.
 
 <!--
 **Matt-pineda/Matt-pineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
